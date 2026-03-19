@@ -1,4 +1,4 @@
-#Новые Одежды
+> Новые Одежды
 >  
 <img width="704" height="384" alt="Новые Одежды" src="https://github.com/user-attachments/assets/528e05d4-d96f-48ba-b8cd-669442ce3fb3" />  
   
